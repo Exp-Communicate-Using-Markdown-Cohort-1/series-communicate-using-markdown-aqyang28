@@ -9,4 +9,4 @@ $ git init
 
 - [ ] Wake up
 - [ ] Go to class
-- [ ] Conquer the day
+- [X] Conquer the day
